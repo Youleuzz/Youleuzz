@@ -5,9 +5,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youleuzz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Youleuzz&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youleuzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=chartreuse-dark&hide_border=false&custom_title=What%20programs%20do%20I%20use?" height="145" alt="languages graph"  />
 </div>
 
+###
+
+
+# 💻 Tech Stack:
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Youleuzz\&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
