@@ -36,6 +36,3 @@
 
 ###
 
-![GitHub Snake](https://raw.githubusercontent.com/Youleuzz/Youleuzz/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Youleuzz/Youleuzz/output/github-snake-dark.svg)
-![Ocean Snake GIF](https://raw.githubusercontent.com/Youleuzz/Youleuzz/output/ocean.gif)
