@@ -13,15 +13,16 @@
 
 
 # 💻 Tech Stack:
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Instagram](https://files.fm/u/4dg4fe4fpu)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
 
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Youleuzz\&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-
+<img align="right" height="150" src="https://files.fm/u/4dg4fe4fpu"  />
 
 ###
 
